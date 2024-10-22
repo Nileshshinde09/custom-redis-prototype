@@ -1,0 +1,6 @@
+{
+    "watch": ["app"],
+    "ext": ".ts,.js",
+    "ignore": [],
+    "exec": "bun run app/main.ts"
+  }

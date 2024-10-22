@@ -1,0 +1,12 @@
+{
+  "dependencies": { "nodemon": "^3.1.7", "redis-parser": "^3.0.0" },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "name": "redis",
+  "module": "index.ts",
+  "type": "module",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
